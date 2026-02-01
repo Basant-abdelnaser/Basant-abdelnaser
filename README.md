@@ -18,6 +18,7 @@ Web Developer focused on building clean, responsive, and scalable web applicatio
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -32,6 +33,7 @@ Web Developer focused on building clean, responsive, and scalable web applicatio
 - Building real-world React , Angular  projects
 - Improving performance and code quality
 - Learning advanced React patterns
+
 
 ### Contact Me
 
