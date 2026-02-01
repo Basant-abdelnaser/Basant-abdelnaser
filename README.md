@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi 👋 I'm Basant Abdelnaser
 
-<!--
-**Basant-abdelnaser/Basant-abdelnaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer focused on building clean, responsive, and scalable web applications using modern web technologies.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- HTML5, CSS3, SCSS
+- JavaScript (ES6+), TypeScript
+- React, Next.js , Angular
+- Bootstrap, Tailwind CSS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently
+- Building real-world React , Angular  projects
+- Improving performance and code quality
+- Learning advanced React patterns
+
+### 📫 Contact Me
+- LinkedIn: www.linkedin.com/in/basant-abdelnaser-412321255
+- Email: basantabdelnaser438@gmail.com
+
