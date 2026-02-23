@@ -1,11 +1,11 @@
 ## Hi 👋 I'm Basant Abdelnaser
 
-Web Developer focused on building clean, responsive, and scalable web applications using modern web technologies.
+Frontend Developer focused on building clean, responsive, and scalable web and mobile applications using modern technologies.
 
 ## About me
 
- I'm currently learning Frontend Development  
- Goal: Build real-world React , Angular applications  
+ I'm currently learning and building with modern Frontend technologies  
+ Goal: Build real-world React, React Native, and Angular applications  
 
 ## 🛠 Tech Stack
 
@@ -17,6 +17,7 @@ Web Developer focused on building clean, responsive, and scalable web applicatio
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
@@ -26,17 +27,13 @@ Web Developer focused on building clean, responsive, and scalable web applicatio
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
-
 ### Currently
 
-- Building real-world React , Angular  projects
+- Building real-world React, React Native, and Angular projects
 - Improving performance and code quality
 - Learning advanced React patterns
-
 
 ### Contact Me
 
 - LinkedIn: www.linkedin.com/in/basant-abdelnaser-412321255
 - Email: basantabdelnaser438@gmail.com
-
