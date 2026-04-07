@@ -4,8 +4,8 @@ Frontend Developer focused on building clean, responsive, and scalable web and m
 
 ## About me
 
- I'm currently learning and building with modern Frontend technologies  
- Goal: Build real-world React, React Native, and Angular applications  
+I'm currently learning and building with modern Frontend technologies  
+Goal: Build real-world React, Next.js, React Native, and Angular applications  
 
 ## 🛠 Tech Stack
 
@@ -17,6 +17,7 @@ Frontend Developer focused on building clean, responsive, and scalable web and m
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -29,11 +30,11 @@ Frontend Developer focused on building clean, responsive, and scalable web and m
 
 ### Currently
 
-- Building real-world React, React Native, and Angular projects
+- Building real-world projects using React, Next.js, React Native, and Angular
 - Improving performance and code quality
-- Learning advanced React patterns
+- Learning advanced React & Next.js patterns (SSR, SSG, SEO)
 
 ### Contact Me
 
-- LinkedIn: www.linkedin.com/in/basant-abdelnaser-412321255
+- LinkedIn: https://www.linkedin.com/in/basant-abdelnaser-412321255
 - Email: basantabdelnaser438@gmail.com
